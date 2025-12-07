@@ -1,5 +1,4 @@
 from typing import List, Dict, Optional
-from datetime import datetime
 
 def filter_by_state(list_dictionary: List[Dict], state: Optional[str]='EXECUTED') -> List[Dict]:
     """Функция, которая принимает список словарей и опционально значение
