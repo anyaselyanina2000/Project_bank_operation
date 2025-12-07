@@ -8,7 +8,7 @@
 
 1. Клонируйте репозиторий:
 ```
-git clone https://github.com/anyaselyanina2000/Project_bank_operation.git
+git@github.com:anyaselyanina2000/Project_bank_operation.git
 ```
 
 2. Установите зависимости:
