@@ -15,3 +15,6 @@ git@github.com:anyaselyanina2000/Project_bank_operation.git
 ```
 poetry install
 ```
+
+## Тестирование:
+Для тестирования используется библиотека pytest. Тесты находятся в директории tests.
